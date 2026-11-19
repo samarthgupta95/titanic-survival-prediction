@@ -1,4 +1,4 @@
-# Titanic Survival Prediction: A Simple Predictive Model with Scikit-learn
+# Titanic Survival Prediction
 
 A Python notebook that predicts which Titanic passengers survived, using Logistic Regression and a Decision Tree built with Scikit-learn. Built as Task 2 of the Month 2 project (predictive modelling) of a Data Science program, and written up in a 7-page PDF report.
 
